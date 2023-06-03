@@ -1,0 +1,5 @@
+name: "terra-infestata"
+displayName: "Guerra contro gli zombi"
+author: Grama
+description: "Un'avvincente avventura contro gli zombi"
+minGameVersion: "150.4"

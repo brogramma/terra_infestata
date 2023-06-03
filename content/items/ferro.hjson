@@ -1,3 +1,18 @@
 type: items
 name: ferro
 description: nuovo materiale per aggiugere blocchi
+color: 5d576b
+explosiveness: (0.0)
+flammability: (0.0)
+radioactivity: (0.0)
+charge: (0.0)
+hardness: 3
+cost: (0.0)
+healthScaling: (0.0)
+lowPriority: false
+frames: 0
+transitionFrames: 0
+frameTime: (5.0)
+buildable: true
+hiddenOnPlanets: Planet[Erekir]
+

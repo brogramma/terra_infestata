@@ -1,7 +1,7 @@
-name: "terra-infestata"
-displayName: "Guerra contro gli zombi"
+name: "ferro"
+displayName: "item ferro"
 author: "Grama"
-description: "Un'avvincente avventura contro gli zombi"
+description: "aggiunge l'item ferro"
 minGameVersion: "144.3"
 dependencies: [ ]
 hidden: false

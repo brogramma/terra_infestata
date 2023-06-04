@@ -1,0 +1,14 @@
+type: item
+name: iron
+description: Use this items to upgrade your blocks
+    "cost": 1,
+    "color": 5d576b
+    "flammability": 0,
+    "explosiveness": 0,
+    "radioactivity": 0,
+    "charge": 0,
+    hardness: 3
+research: {
+    parent: "berillio"
+},
+    alwaysUnlocked: true

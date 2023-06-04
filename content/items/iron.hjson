@@ -12,7 +12,7 @@ research: {
     parent: "berillio"
     objectives: [
         {
-            type: "Research",
+            type: "Produce",
             preset: "berillio"
         }
     ]

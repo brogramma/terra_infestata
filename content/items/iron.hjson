@@ -12,8 +12,8 @@ research: {
     parent: "berillio"
     objectives: [
         {
-            type: "SectoreComplete",
-            preset: "The Onset"
+            type: "Research",
+            preset: "berillio"
         }
     ]
 },

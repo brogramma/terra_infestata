@@ -10,11 +10,6 @@ description: Use this items to upgrade your blocks
     hardness: 3
 research: {
     parent: "berillio"
-    objectives: [
-        {
-            type: "Produce",
-            preset: "berillio"
-        }
-    ]
+    requirements
 },
     alwaysUnlocked: true

@@ -2,7 +2,8 @@ name: "ferro"
 displayName: "item ferro"
 author: "Grama"
 description: "aggiunge l'item ferro"
-minGameVersion: "144.3"
+version: 0.1
+minGameVersion: "143.1"
 dependencies: [ ]
 hidden: false
 

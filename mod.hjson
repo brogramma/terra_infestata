@@ -1,7 +1,7 @@
 name: "ferro"
-displayName: "item ferro"
+displayName: "Irons"
 author: "Grama"
-description: "aggiunge l'item ferro"
+description: "Estrai, raccogli, immagazina e potenzia i tuoi blocchi per renderli più resistenti"
 version: 0.1
 minGameVersion: "143.1"
 dependencies: [ ]

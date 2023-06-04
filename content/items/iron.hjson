@@ -10,11 +10,5 @@ description: Use this items to upgrade your blocks
     hardness: 3
 research: {
     parent: "beryllium"
-    requirements: [
-        {
-        item: "beryllium"
-        amount: 100
-        },
-    ]
 },
     alwaysUnlocked: true

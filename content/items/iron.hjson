@@ -9,10 +9,10 @@ description: Use this items to upgrade your blocks
     "charge": 0,
     hardness: 3
 research: {
-    parent: "berillio"
+    parent: "beryllium"
     requirements: [
         {
-        item: "berillio"
+        item: "beryllium"
         amount: 100
         },
     ]
